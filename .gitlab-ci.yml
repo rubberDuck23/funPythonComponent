@@ -1,2 +1,2 @@
 test:
-        echo "hello" | grep q 'hell'
+        echo "hello" | grep -q 'hell'
